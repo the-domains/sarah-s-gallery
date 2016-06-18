@@ -7,8 +7,8 @@ keywords: []
 description: >-
   These guys are so different from the sleepy lions. Power and grace, even when
   just walking
-datePublished: '2016-06-18T22:18:32.073Z'
-dateModified: '2016-06-18T22:18:08.212Z'
+datePublished: '2016-06-18T22:20:26.332Z'
+dateModified: '2016-06-18T22:18:39.300Z'
 title: Amazing animals
 author:
   - name: ''
