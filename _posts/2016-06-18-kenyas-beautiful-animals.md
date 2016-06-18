@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Kenya has amazing animals
-datePublished: '2016-06-18T21:22:15.364Z'
-dateModified: '2016-06-18T21:21:25.372Z'
+datePublished: '2016-06-18T21:27:46.259Z'
+dateModified: '2016-06-18T21:27:21.751Z'
 title: Cat
 author:
   - name: ''
@@ -19,31 +19,23 @@ url: kenyas-beautiful-animals/index.html
 _type: WebPage
 
 ---
-Kenya has amazing animals
+**Kenya has amazing animals**
 
-Speed cats  
+  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af092031-49b2-436a-b465-95d8169f4235.jpg)
 
 These guys are so different from the sleepy lions. Power and grace in motion, even when just walking
-
-Amazing birds  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff06cae-30b3-49e6-ac40-127faad7801c.jpg)
 
 When we're in Africa it's all about the big 5 - but the birds are superb, from the flamingoes and waders at the lakes to the eagles, kites and even the scary maribu storks that patrol Nairobi's rubbish dumps.
-
-Social groups  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/031703ec-7a81-49dd-87aa-06e45ef81769.jpg)
 
 Whether its stealing a sandwich from an unwary tourist, running riot through the trees or simply sitting inconveniently in the middle of the road, these guys are always entertaining and never predictable.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf09f6f3-f406-4e0b-90b0-391bb5039d07.jpg)
 
-Hakuna Matata
-
-What can you say - these are so beautiful...well, in their own way, I suppose. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf09f6f3-f406-4e0b-90b0-391bb5039d07.jpg)
-
-Awesome antelopes
+What can you say - these are so beautiful...well, in their own way, I suppose. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0decd9-7e0b-4734-b5dc-89c65664725a.jpg)
 
 The grace of the gazelle, the beauty of the antelopes, these animals are poetry in motion and to me they are the real owners of the African grasslands.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0decd9-7e0b-4734-b5dc-89c65664725a.jpg)
 
 and of course...Giraffes!  
 
