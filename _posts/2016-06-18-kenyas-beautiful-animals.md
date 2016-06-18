@@ -4,10 +4,12 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Kenya has amazing animals
-datePublished: '2016-06-18T21:29:45.234Z'
-dateModified: '2016-06-18T21:29:27.496Z'
-title: ''
+description: >-
+  These guys are so different from the sleepy lions. Power and grace in motion,
+  even when just walking 
+datePublished: '2016-06-18T21:32:08.300Z'
+dateModified: '2016-06-18T21:29:52.400Z'
+title: Amazing animals
 author:
   - name: ''
     url: ''
@@ -19,7 +21,6 @@ url: kenyas-beautiful-animals/index.html
 _type: WebPage
 
 ---
-**Kenya has amazing animals**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af092031-49b2-436a-b465-95d8169f4235.jpg)
 
 These guys are so different from the sleepy lions. Power and grace in motion, even when just walking
