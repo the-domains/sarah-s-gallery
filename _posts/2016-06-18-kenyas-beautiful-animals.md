@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Kenya has amazing animals
-datePublished: '2016-06-18T21:27:46.259Z'
-dateModified: '2016-06-18T21:27:21.751Z'
-title: Cat
+datePublished: '2016-06-18T21:29:45.234Z'
+dateModified: '2016-06-18T21:29:27.496Z'
+title: ''
 author:
   - name: ''
     url: ''
@@ -20,8 +20,6 @@ _type: WebPage
 
 ---
 **Kenya has amazing animals**
-
-  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af092031-49b2-436a-b465-95d8169f4235.jpg)
 
 These guys are so different from the sleepy lions. Power and grace in motion, even when just walking
@@ -36,8 +34,6 @@ Whether its stealing a sandwich from an unwary tourist, running riot through the
 What can you say - these are so beautiful...well, in their own way, I suppose. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0decd9-7e0b-4734-b5dc-89c65664725a.jpg)
 
 The grace of the gazelle, the beauty of the antelopes, these animals are poetry in motion and to me they are the real owners of the African grasslands.
-
-and of course...Giraffes!  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a23b546e-ad57-4758-aef8-d59b3e85589d.jpg)
 
 Giraffe is our symbol because they make excellent parents. Our motto is, "helping kids from the slums of Nairobi walk tall." What else could we have chosen?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a23b546e-ad57-4758-aef8-d59b3e85589d.jpg)
