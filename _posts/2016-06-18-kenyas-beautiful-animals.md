@@ -6,9 +6,9 @@ inLanguage: null
 keywords: []
 description: >-
   These guys are so different from the sleepy lions. Power and grace in motion,
-  even when just walking 
-datePublished: '2016-06-18T21:32:08.300Z'
-dateModified: '2016-06-18T21:29:52.400Z'
+  even when just walking
+datePublished: '2016-06-18T21:54:36.919Z'
+dateModified: '2016-06-18T21:54:36.383Z'
 title: Amazing animals
 author:
   - name: ''
