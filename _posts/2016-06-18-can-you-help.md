@@ -7,8 +7,8 @@ keywords: []
 description: >-
   I will be going again with the Giraffe Project on 3 July to see what help we
   can offer.
-datePublished: '2016-06-18T15:47:22.968Z'
-dateModified: '2016-06-18T15:46:58.376Z'
+datePublished: '2016-06-18T15:48:12.412Z'
+dateModified: '2016-06-18T15:48:06.799Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-can-you-help.md
@@ -22,5 +22,3 @@ _type: WebPage
 I will be going again with the Giraffe Project on 3 July to see what help we can offer.
 
 If you'd be prepared to help with a small donation, everything will go to the charity, I will be funding myself - mum and will help too :-))
-
-If you can help, please go to my _Just Giving page_
