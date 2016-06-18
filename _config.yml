@@ -2,6 +2,7 @@ name: Sarah's Gallery
 favicon: null
 layout_spectrum: 0.61649
 typography_spectrum: 0.07424
+title: Sarah's Gallery
 cta:
   domain: null
   bucket: null
