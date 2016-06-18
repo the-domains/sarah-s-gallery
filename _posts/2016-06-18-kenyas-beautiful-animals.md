@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Kenya has amazing animals
-datePublished: '2016-06-18T21:18:44.585Z'
-dateModified: '2016-06-18T21:18:27.903Z'
+datePublished: '2016-06-18T21:19:19.195Z'
+dateModified: '2016-06-18T21:18:53.449Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-kenyas-beautiful-animals.md
@@ -19,7 +19,7 @@ _type: WebPage
 ---
 Kenya has amazing animals
 
-Speed cats
+Speed cats  
 
 These guys are so different from the sleepy lions. Power and grace in motion, even when just walking
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af092031-49b2-436a-b465-95d8169f4235.jpg)
