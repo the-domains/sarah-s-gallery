@@ -4,14 +4,14 @@
         <description><![CDATA[Sarah's Gallery]]></description>
         <link>https://thegrid.ai/sarah-s-gallery/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 21:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 21:53:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sarah-s-gallery/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Slums]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4810d1cb-d0a5-4ebc-8e97-808f79086117.jpg">]]></description>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4daf70c9c7fddbcee91f732e29f1fd47/croprotate.jpg?cropheight=2133&cropwidth=2848&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4810d1cb-d0a5-4ebc-8e97-808f79086117.jpg&x=0&y=0" alt="" title="">]]></description>
             <link>https://thegrid.ai/sarah-s-gallery/sarahs-gallery-for-the-giraffe-project/index.html</link>
             <guid isPermaLink="false">6aa17ee6-b708-452f-8112-480dd4642a12</guid>
-            <pubDate>Sat, 18 Jun 2016 21:50:07 GMT</pubDate>
+            <pubDate>Sat, 18 Jun 2016 21:52:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
