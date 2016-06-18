@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Kenya has amazing animals
-datePublished: '2016-06-18T21:18:11.215Z'
-dateModified: '2016-06-18T21:17:48.747Z'
+datePublished: '2016-06-18T21:18:44.585Z'
+dateModified: '2016-06-18T21:18:27.903Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-kenyas-beautiful-animals.md
@@ -43,8 +43,7 @@ Awesome antelopes
 The grace of the gazelle, the beauty of the antelopes, these animals are poetry in motion and to me they are the real owners of the African grasslands.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be0decd9-7e0b-4734-b5dc-89c65664725a.jpg)
 
-  
-and of course...Giraffes!!
+and of course...Giraffes!  
 
 Giraffe is our symbol because they make excellent parents. Our motto is, "helping kids from the slums of Nairobi walk tall." What else could we have chosen?
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a23b546e-ad57-4758-aef8-d59b3e85589d.jpg)
