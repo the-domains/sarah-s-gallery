@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Kenya has amazing animals
-datePublished: '2016-06-18T21:19:48.577Z'
-dateModified: '2016-06-18T21:19:26.847Z'
+datePublished: '2016-06-18T21:21:21.278Z'
+dateModified: '2016-06-18T21:20:26.654Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-kenyas-beautiful-animals.md
@@ -20,20 +20,19 @@ _type: WebPage
 Kenya has amazing animals
 
 Speed cats  
-
-These guys are so different from the sleepy lions. Power and grace in motion, even when just walking
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af092031-49b2-436a-b465-95d8169f4235.jpg)
 
-  
-Amazing birds
+These guys are so different from the sleepy lions. Power and grace in motion, even when just walking
 
-When we're in Africa it's all about the big 5 - but the birds are superb, from the flamingoes and waders at the lakes to the eagles, kites and even the scary maribu storks that patrol Nairobi's rubbish dumps.
+Amazing birds  
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff06cae-30b3-49e6-ac40-127faad7801c.jpg)
 
+When we're in Africa it's all about the big 5 - but the birds are superb, from the flamingoes and waders at the lakes to the eagles, kites and even the scary maribu storks that patrol Nairobi's rubbish dumps.
+
 Social groups  
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/031703ec-7a81-49dd-87aa-06e45ef81769.jpg)
 
 Whether its stealing a sandwich from an unwary tourist, running riot through the trees or simply sitting inconveniently in the middle of the road, these guys are always entertaining and never predictable.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/031703ec-7a81-49dd-87aa-06e45ef81769.jpg)
 
 Hakuna Matata
 
