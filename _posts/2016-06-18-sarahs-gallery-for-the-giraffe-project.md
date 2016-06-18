@@ -8,8 +8,8 @@ description: >-
   Whenever it's safe, we go out to Nairobi during our summer holidays and try
   and help the kids who live in the slums there. But it's not all about the
   slums. Check out my pictures on the rest of the site too.
-datePublished: '2016-06-18T22:07:59.368Z'
-dateModified: '2016-06-18T22:06:44.983Z'
+datePublished: '2016-06-18T22:08:58.214Z'
+dateModified: '2016-06-18T22:08:05.115Z'
 title: ''
 author:
   - name: ''
