@@ -5,10 +5,12 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Kenya has amazing animals
-datePublished: '2016-06-18T21:21:21.278Z'
-dateModified: '2016-06-18T21:20:26.654Z'
-title: ''
-author: []
+datePublished: '2016-06-18T21:22:15.364Z'
+dateModified: '2016-06-18T21:21:25.372Z'
+title: Cat
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-18-kenyas-beautiful-animals.md
 authors: []
 publisher: null
