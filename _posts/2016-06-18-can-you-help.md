@@ -7,8 +7,8 @@ keywords: []
 description: >-
   I will be going again with the Giraffe Project on 3 July to see what help we
   can offer.
-datePublished: '2016-06-18T18:54:21.572Z'
-dateModified: '2016-06-18T18:54:18.644Z'
+datePublished: '2016-06-18T18:54:47.496Z'
+dateModified: '2016-06-18T18:54:40.022Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-18-can-you-help.md
