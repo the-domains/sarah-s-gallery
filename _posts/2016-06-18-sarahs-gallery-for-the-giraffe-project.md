@@ -8,8 +8,8 @@ description: >-
   Whenever it's safe, we go out to Nairobi during our summer holidays and try
   and help the kids who live in the slums there. But it's not all about the
   slums. Check out my pictures on the rest of the site too. 
-datePublished: '2016-06-19T12:00:37.403Z'
-dateModified: '2016-06-19T10:34:54.247Z'
+datePublished: '2016-06-19T12:02:20.656Z'
+dateModified: '2016-06-19T12:00:45.603Z'
 title: ''
 author:
   - name: ''
@@ -34,11 +34,7 @@ They take nothing for granted. They can't afford to. Everything is an opportunit
 Yes there are different layers of poverty, even here. These are probably luckier than most, but even these face a future of abuse, poverty and maybe even worse as they get older. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/48543031-b3ae-4171-bbb9-8921e4db1a40.jpg)
 
 But it doesn't have to be like this. Education is something they will keep - even when they have nothing else - and it's education that gives them more chances than anything else. Even at this age, they know the value of education and would bite your hand off for the opportunity to go to a really good school.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfa53b00-3252-454a-85bc-680074e71053.jpg)
 
 That's where the [Giraffe Project][0] tries to help. Check out our schools page! 
-
-  
-
 
 [0]: http://www.giraffeproject.org/
