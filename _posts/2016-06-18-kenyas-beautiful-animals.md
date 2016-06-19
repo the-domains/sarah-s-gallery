@@ -7,8 +7,8 @@ keywords: []
 description: >-
   These guys are so different from the sleepy lions. Power and grace, even when
   just walking
-datePublished: '2016-06-19T12:01:59.781Z'
-dateModified: '2016-06-19T12:01:59.031Z'
+datePublished: '2016-06-19T13:19:39.486Z'
+dateModified: '2016-06-19T13:18:07.886Z'
 title: Amazing animals
 author:
   - name: ''
@@ -26,7 +26,7 @@ _type: WebPage
 These guys are so different from the sleepy lions. Power and grace, even when just walking
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ff06cae-30b3-49e6-ac40-127faad7801c.jpg)
 
-When we're in Africa it's all about the big 5 - but the birds are superb, from the flamingoes and waders at the lakes to the eagles, kites and even the scary maribu storks that patrol Nairobi's rubbish dumps.
+When we're in Africa it's all about the big 5 - but the birds are superb, from the flamingoes and waders at the lakes to the eagles, kites and even the scary marabou storks that patrol Nairobi's rubbish dumps.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/031703ec-7a81-49dd-87aa-06e45ef81769.jpg)
 
 Whether its stealing a sandwich from an unwary tourist, running riot through the trees or simply sitting inconveniently in the middle of the road, these guys are always entertaining and never predictable.
