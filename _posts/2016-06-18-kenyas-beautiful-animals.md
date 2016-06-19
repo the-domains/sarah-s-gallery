@@ -7,8 +7,8 @@ keywords: []
 description: >-
   These guys are so different from the sleepy lions. Power and grace, even when
   just walking
-datePublished: '2016-06-18T22:20:26.332Z'
-dateModified: '2016-06-18T22:18:39.300Z'
+datePublished: '2016-06-19T10:18:48.982Z'
+dateModified: '2016-06-19T10:18:34.005Z'
 title: Amazing animals
 author:
   - name: ''
@@ -38,3 +38,10 @@ The grace of the gazelle, the beauty of the antelopes, these animals are poetry 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a23b546e-ad57-4758-aef8-d59b3e85589d.jpg)
 
 Giraffe is our symbol because they make excellent parents. Our motto is, "helping kids from the slums of Nairobi walk tall." What else could we have chosen?
+
+Here are a few more stunning nature shots from our time out there.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aedd19ec-bb1a-45e2-adfb-10f1d9173b28.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9811585f-7310-45ba-9079-919a345e9733.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b838a63f-a00b-4707-ac54-c237a4bcefcb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/298f2aa7-adfa-44ab-b026-011fee03f725.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c4c47df-dcab-40b2-b857-ff86c05fabc7.jpg)
